@@ -1,0 +1,500 @@
+    4  CD
+    5  cd
+    6  exit
+    7  pwd
+    8  pwd
+    9  cd Desktop/
+   10  pwd
+   11  ls
+   12  cd ..
+   13  ls
+   14  cd ..
+   15  ls
+   16  cd ..
+   17  ls
+   18  cd ..
+   19  ls
+   20  cd ..
+   21  ls
+   22  cd ..
+   23  ls
+   24  pwd
+   25  cd
+   26  ls
+   27  /Volumes/boot/bcm2711-rpi-cm4.dtb 
+   28  dd if=/Volumes/boot of=/Users/aleksandrgrek/Desktop/image bs=1M
+   29  dd if=/Volumes/boot of=/Users/aleksandrgrek/Desktop/image
+   30  sudp dd if=/Volumes/boot of=/Users/aleksandrgrek/Desktop/image
+   31  sudo dd if=/Volumes/boot of=/Users/aleksandrgrek/Desktop/image
+   32  pwd
+   33  sudo dd if=/Volumes/boot of=/Users/aleksandrgrek/Desktop/image.dmg
+   34  ping 10.0.0.2
+   35  ssh pi@10.0.0.2
+   36  history | grep ssh
+   37  pwd
+   38  cd Desktop/
+   39  zip -er evkr-rtu\'s.zip
+   40  zip -er evkr-rtu\'s.zip
+   41  man zip
+   42  zip -er evkr-rtu\'s.zip evkr-rtu\'s.xlsx 
+   43  bash
+   44  ssh pi@10.200.88.14
+   45  bash
+   46  ssh pi@10.200.88.14
+   47  ssh pi@10.200.88.12
+   48  ssh pi@10.200.88.12
+   49  clear
+   50  bash
+   51  ssh pi@10.200.88.12
+   52  ssh-keygen -R "10.200.88.12"
+   53  ssh pi@10.200.88.12
+   54  bash
+   55  cd Desktop/Uni/selfie
+   56  ls
+   57  pwd
+   58  cd ..
+   59  ls
+   60  cd selfie
+   61  ls
+   62  make
+   63  git branch
+   64  history | grep grader
+   65  make
+   66  ./grader/self.py assembler-parser
+   67  ./grader/self.py self-assembler
+   68  ./grader/self.py processes
+   69  ./grader/self.py fork-wait
+   70  ./grader/self.py fork-wait-exit
+   71  ./grader/self.py lock
+   72  ./grader/self.py threads
+   73  ./grader/self.py treiber-stack
+   74  clear
+   75  pwd
+   76  ls
+   77  anaconda
+   78  jupyther
+   79  jupyter notebook
+   80  pwd
+   81  cd
+   82  cd Documents/PyProjects/
+   83  ls
+   84  cd projectHelp/
+   85  jupyter notebook
+   86  bash
+   87  pip install opencv-python
+   88  git init
+   89  git remote add https://github.com/goldoner/number-plate-detection.git
+   90  git remote add origin https://github.com/goldoner/number-plate-detection.git
+   91  git add .
+   92  git commit -m "initial commit"
+   93  git push origin master
+   94  git status
+   95  git push origin main
+   96  git branch
+   97  git pull
+   98  git pull origin master
+   99  git pull origin master
+  100  git branch
+  101  git status
+  102  history | grep run
+  103  history | grep start
+  104  sudo /usr/local/mysql/support-files/mysql.server start
+  105  bash
+  106  bash
+  107  cd
+  108  cd Desktop/GridData/rtu-client
+  109  ls
+  110  git push
+  111  git status
+  112  git push origin master
+  113  git push origin master
+  114  ls
+  115  pwd
+  116  ping 10.0.0.1
+  117  ping 0.0.0.1
+  118  ping 10.0.0.001
+  119  ping 10.0.0.55
+  120  ping 10.0.0.54
+  121  ping 10.0.0.0
+  122  ping 10.0.0.1
+  123  ls /dev/tty.*
+  124  screen /dev/tty.usbserial-14120 38.4
+  125  bash
+  126  LS
+  127  ls /dev/tty.*
+  128  ls /dev/tty.*
+  129  cd
+  130  cd Documents/PyProjects/
+  131  ls
+  132  git clone https://github.com/rossmann-engineering/EasyModbusTCP.PY.git
+  133  bash
+  134  history grep ping
+  135  history | grep ping
+  136  ping 10.0.0.2
+  137  ping 10.0.0.56
+  138  ping 10.0.0.55
+  139  ls
+  140  ssh-keygen -t ed25519 -C "grek@griddata.eu"
+  141  pwd
+  142  ls
+  143  sudo nano id_ed25519.pub.pub 
+  144  tr -d '\n' < ~/id_ed25519.pub.pub 
+  145  sudo nano id_ed25519.pub.pub 
+  146  ssh-add -K ~/.ssh/[b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
+  147  QyNTUxOQAAACAF3cpmaZIo9m45M5DgXGgepBeZVyJlSG4KxtgTjD3RLQAAAJjzsOoI87Dq
+  148  CAAAAAtzc2gtZWQyNTUxOQAAACAF3cpmaZIo9m45M5DgXGgepBeZVyJlSG4KxtgTjD3RLQ
+  149  AAAECQKxDN1/bGwvYop85AgtBUtSMsIHh4YC/aGCIvzYCrnAXdymZpkij2bjkzkOBcaB6k
+  150  F5lXImVIbgrG2BOMPdEtAAAAEGdyZWtAZ3JpZGRhdGEuZXUBAgMEBQ==]
+  151  ssh-add -K ~/.ssh/[b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZWQyNTUxOQAAACAF3cpmaZIo9m45M5DgXGgepBeZVyJlSG4KxtgTjD3RLQAAAJjzsOoI87DqCAAAAAtzc2gtZWQyNTUxOQAAACAF3cpmaZIo9m45M5DgXGgepBeZVyJlSG4KxtgTjD3RLQAAAECQKxDN1/bGwvYop85AgtBUtSMsIHh4YC/aGCIvzYCrnAXdymZpkij2bjkzkOBcaB6kF5lXImVIbgrG2BOMPdEtAAAAEGdyZWtAZ3JpZGRhdGEuZXUBAgMEBQ==]
+  152  ssh
+  153  man ssh
+  154  cat ~/.ssh/id_rsa.pub
+  155  cat ~/.ssh/id_rsa.pub | pbcopy
+  156  cd
+  157  cd Desktop/
+  158  git@git.griddata.eu:internal/development/loadinganalysis-app.git
+  159  ls
+  160  cd GridData/
+  161  ls
+  162  cd rtu-client
+  163  ls
+  164  git remote get-url origin
+  165  git push
+  166  ssh -T grek@git.griddata.eu
+  167  ssh -T grek@griddata.eu@git.griddata.eu
+  168  ssh -T grek@git.griddata.eu
+  169  ssh -T git.griddata.eu
+  170  ssh -T grek@git.griddata.eu
+  171  ssh -Tvvv grek@git.griddata.eu
+  172  ssh -T git.griddata.eu
+  173  ssh -T git@git.griddata.eu
+  174  ssh -T grek@git.griddata.eu
+  175  ssh -T grek@griddata.eu
+  176  cd
+  177  cd .ssh/
+  178  ls
+  179  ls -la
+  180  ssh-keygen -t ed25519 -C "<grek.griddata>"
+  181  ls
+  182  ls -la
+  183  ls
+  184  sudo rm -f grekGridData
+  185  sudo rm -f grekGridData.pub 
+  186  ls -la
+  187  ssh-keygen -t rsa -b 2048 -C "GrekGridData"
+  188  ls
+  189  sudo nano GrekGridData.pub 
+  190  cat GrekGridData,pub
+  191  cat 
+  192  cat a
+  193  pwd
+  194  ssh-add -K ~/.ssh/GrekGridData
+  195  bash
+  196  v
+  197  pip install EasyModbus
+  198  pip install pyserial
+  199  /Users/aleksandrgrek/Documents/PyProjects/EasyModbusTCP.PY/easymodbus/run.py
+  200  sudo python3 /Users/aleksandrgrek/Documents/PyProjects/EasyModbusTCP.PY/easymodbus/run.py
+  201  /Users/aleksandrgrek/Documents/PyProjects/EasyModbusTCP.PY/setup.py
+  202  sudo /Users/aleksandrgrek/Documents/PyProjects/EasyModbusTCP.PY/setup.py
+  203  sudo python3 /Users/aleksandrgrek/Documents/PyProjects/EasyModbusTCP.PY/setup.py
+  204  sudo python3 /Users/aleksandrgrek/Documents/PyProjects/EasyModbusTCP.PY/setup.py
+  205  git merge upstream/main
+  206  make
+  207  make
+  208  ./grader/self.py processes
+  209  git statu
+  210  git status
+  211  git pull
+  212  git remote get-url upstream
+  213  git remote get-url origin
+  214  git remote add origin https://github.com/goldoner/projectX.git
+  215  git remote remove origin
+  216  git remote add origin https://github.com/goldoner/projectX.git
+  217  git pull
+  218  git commit -m try
+  219  git pull
+  220  git pull remote origin
+  221  git pull -f remote origin
+  222  git pull -u remote origin
+  223  git pull remote main
+  224  ]
+  225  git pull remote main
+  226  git remote get-url origin
+  227  git pull
+  228  git pull
+  229  git fetch upstream
+  230  git branch --set-upstream-to=origin/main main
+  231  git fetch upstream main
+  232  git checkout main
+  233  git merge upstream/main
+  234  git push origin
+  235  git pull
+  236  git pull origin main
+  237  make
+  238  ./grader/self.py processes
+  239  ssh-keygen -t rsa -b 2048 -C "ssh griddata"
+  240  ls
+  241  eval $(ssh-agent -s)
+  242  ssh-add <directory to private SSH key>
+  243  eval $(ssh-agent -s)
+  244  ssh-add /Users/aleksandrgrek/
+  245  ssh-add /Users/aleksandrgrek/ssh\ grek
+  246  (ssh-agent -s)
+  247  (ssh-agent -s)
+  248  (ssh-agent -s)
+  249  eval $(ssh-agent -s)
+  250  eval (ssh-agent -s)
+  251  ssh -T git@griddata.eu
+  252  ssh -T git@griddata.eu
+  253  ssh-add -K /Users/aleksandrgrek/ssh\ grek
+  254  ssh -T git@griddata.eu
+  255  ssh -T grek@git@griddata.eu
+  256  ssh -T git@griddata.eu
+  257  ssh-add --apple-use-keychain /Users/aleksandrgrek/ssh\ grek
+  258  ssh -T git@griddata.eu
+  259  bash
+  260  history | grep ssh
+  261  ssh pi@10.200.88.12
+  262  ssh pi@10.200.88.12
+  263  ssh pi@10.200.88.12
+  264  ssh pi@10.200.88.12
+  265  ssh pi@10.200.88.12
+  266  ls
+  267  pwd
+  268  cd Desktop/GridData/rtu-client
+  269  ls
+  270  git status
+  271  git push
+  272  git remote get-url
+  273  git remote get-url remote
+  274  git remote get-url master
+  275  git remote get-url origi
+  276  git remote get-url origin
+  277  git remote remove-url origin
+  278  git remote remove origin
+  279  git remote add ssh://git.griddata.eu/internal/development/rtu-client.git
+  280  git remote origin ssh://git.griddata.eu/internal/development/rtu-client.git
+  281  git remote add origin ssh://git.griddata.eu/internal/development/rtu-client.git
+  282  git remote get-url origin
+  283  git push
+  284  git push origin master
+  285  git status
+  286  git remote get-url origin
+  287  git push
+  288  git push origin master
+  289  git push -u origin master
+  290  git remote get-url origin
+  291  git remote remove origin
+  292  git remote origin ssh://grek@git.griddata.eu/internal/development/rtu-client.git
+  293  git remote add origin ssh://grek@git.griddata.eu/internal/development/rtu-client.git
+  294  git push origin master
+  295  git push origin master
+  296  git push origin master
+  297  bash
+  298  ls -la
+  299  ls
+  300  ls -l
+  301  cd
+  302  cd Desktop/
+  303  git clone git@git.griddata.eu:internal/development/rtu-client.git
+  304  ls
+  305  cd
+  306  cd Desktop/GridData/rtu-client
+  307  git remote get-url origin
+  308  git remote remove origin
+  309  git remote add origin git@git.griddata.eu:internal/development/rtu-client.git
+  310  git push origin master
+  311  git push -f origin master 
+  312  bash
+  313  man ssh-add
+  314  history | grep ssh
+  315  ssh -T git@griddata.eu
+  316  cd
+  317  cd Desktop/GridData/rtu-client
+  318  git push
+  319  git push origin master
+  320  grek@griddata.eu
+  321   ssh-keygen -t rsa -b 2048 -C "grek@griddata.eu"
+  322  ls -la
+  323  ssh-add ~/.ssh/id_rsa
+  324  nano ~/.ssh/config
+  325  nano ~/.ssh/config
+  326  tr -d '\n' < ~/.ssh/id_rsa.pub | pbcopy
+  327  pwd
+  328  ls
+  329  git push origin master
+  330  ls
+  331  cd
+  332  cd Desktop/rtu-client/
+  333  ls
+  334  git add .
+  335  git commit -m "test commit"
+  336  git push
+  337  git remote get-url origin
+  338  pwd
+  339  cd ..
+  340  ls
+  341  rm -f rtu-client/
+  342  rmdir -f rtu-client/
+  343  pwd
+  344  ls
+  345  cd GridData/
+  346  cd scada_client_landau/
+  347  ls
+  348  git statu
+  349  git status
+  350  git remote get-url origin
+  351  git push
+  352  git push
+  353  ls
+  354  cd ..
+  355  cd rtu-client
+  356  git remote get-url origin
+  357  ls
+  358  cd ..
+  359  cd scada_client_landau/
+  360  git remite get-url origin
+  361  git remote get-url origin
+  362  git remote
+  363  man git remote
+  364  q
+  365  git remote rename
+  366  git remote change
+  367  git remote set-url origin git@git.griddata.eu:internal/development/scada_client_landau.git
+  368  git push
+  369  pwd
+  370  bash
+  371  history | grep ssh
+  372  ssh pi@10.200.88.12
+  373  bash
+  374  history
+  375  bash
+  376  mvn install:install-file -Dfile=/Users/aleksandrgrek/Documents/JavaProjects/rtu-modbus-test/src/main/resources/EasyModbusJava.jar -DgroupId=com.modbus -DartifactId=modbus-client -Dversion=1.0.1 -Dpackaging=jar -DgeneratePom=true
+  377  mvn install:install-file -Dfile=/Users/aleksandrgrek/Documents/JavaProjects/rtu-modbus-test/src/main/resources/ejSerial/jSerial.jar -DgroupId=com.jSeriaal -DartifactId=jSeriaal -Dversion=1.0.0 -Dpackaging=jar -DgeneratePom=true
+  378  mvn clean package
+  379  mvn clean package
+  380  pwd
+  381  ls
+  382  java -jar target/rtu-modbus-test-jar-with-dependencies.jar 
+  383  mvn clean package
+  384  mvn clean package
+  385  java -jar target/rtu-modbus-test-jar-with-dependencies.jar 
+  386  mvn clean package
+  387  git init
+  388  git remote add origin https://github.com/goldoner/rtu-modbus-java-test.git
+  389  git branhc -M master
+  390  git branch -M master
+  391  git branch -M main
+  392  git branch -M main
+  393  git push -u origin main
+  394  git add .
+  395  git commit -m "initial commit"
+  396  git push -u origin main
+  397  git push -u origin master
+  398  mvn -version
+  399  mvn clean package
+  400  git add .
+  401  git commit -m ".jar update"
+  402  pwd
+  403  ls
+  404  java -jar target/rtu-modbus-test-jar-with-dependencies.jar 
+  405  mvn clean package
+  406  java -jar target/rtu-modbus-test-jar-with-dependencies.jar 
+  407  mvn clean package
+  408  java -jar target/rtu-modbus-test-jar-with-dependencies.jar 
+  409  mvn clean package
+  410  java -jar target/rtu-modbus-test-jar-with-dependencies.jar 
+  411  git add .
+  412  git commit -m "unused code commented"
+  413  git push
+  414  ssh pi@10.200.88.12
+  415  bash
+  416  history | grep strart
+  417  history | grep run
+  418  history | grep server
+  419  sudo /usr/local/mysql/support-files/mysql.server start
+  420  bash
+  421  history | grep ssh
+  422  ssh pi@10.200.88.14
+  423  ssh pi@10.200.88.12
+  424  ssh pi@10.200.88.12
+  425  bash
+  426  ssh pi@10.200.88.12
+  427  bash
+  428  ssh pi@10.200.88.12
+  429  bash
+  430  ssh pi@10.200.88.12
+  431  bash
+  432  $ pip install python-telegram-bot --upgrade
+  433  pip install python-telegram-bot --upgrade
+  434  git init
+  435  git commit -m "initial commit:
+  436  git commit -m "initial commit"
+  437  git add .
+  438  git commit -m "initial commit"
+  439  heroku git:remote -a crypto-coin-bot-py
+  440  git push heroku master
+  441  git add .
+  442  git commit -m "initial commit 2"
+  443  git push heroku master
+  444  git push -f  heroku master
+  445  heroku git:remote -a crypto-coin-bot-py
+  446  git push -f  heroku master
+  447  git push -f  heroku main
+  448  git push heroku main
+  449  git push heroku master:main
+  450  git push heroku master:main
+  451  git push heroku master:main
+  452  git init
+  453  heroku login
+  454  git add .
+  455  git commit -m "initial commit"
+  456  heroku create
+  457  git push heroku main
+  458  git push heroku master
+  459  python --version
+  460  git add .
+  461  git commit -m "runtume.txt added"
+  462  git push heroku master
+  463  python --version
+  464  heroku buildpacks
+  465  brew upgrade heroku
+  466  brew install heroku
+  467   softwareupdate --all --install --force
+  468  brew upgrade
+  469  softwareupdate --all --install --force
+  470  sudo rm -rf /Library/Developer/CommandLineTools
+  471  sudo xcode-select --install
+  472  sudo xcode-select --install
+  473  bash
+  474  nmap
+  475  ifconfig
+  476  nmap -sP 10.0.0.138/24
+  477  brew uninstall nmap
+  478  brew install nmap
+  479  nmap -sP 10.0.0.138/24
+  480  brew link --overwrite nmap
+  481  sudo brew link --overwrite nmap
+  482  ln -s /usr/local/Cellar/nmap/7.92/bin/nmap /usr/local/bin/nmap
+  483  nmap -sP 10.0.0.138/24
+  484  bash
+  485  speedtest
+  486  speedtest
+  487  bash
+  488  python -m serial.tools.miniterm
+  489  python3 -m serial.tools.miniterm
+  490  bash
+  491  /Applications/CleanMyMac\ X.app/Contents/MacOS/CleanMyMac\ X ; exit;
+  492  /Volumes/CleanMyMac\ X\ 4.8.9/Open\ Gatekeeper\ friendly ; exit;
+  493  /Volumes/CleanMyMac\ X\ 4.8.9\ 1/Extra/rhash ; exit;
+  494  history | grep ssh
+  495  ssh pi@10.200.88.12
+  496  bash
+  497  ssh pi@10.200.88.12
+  498  bash
+  499  speedtest
+  500  bash
+  501  cd Desktop/
+  502  history >> file.txt
+  503  history >> file.txt
